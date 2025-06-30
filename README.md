@@ -1,4 +1,4 @@
-# Entrega de projeto - Simulador de Corridas do Mario Kart com Node.js | DIO
+# Simulador de Corridas do Mario Kart com Node.js | DIO
 
 Neste projeto, foi desenvolvida uma corrida que considera as habilidades dos personagens e as variáveis das pistas. O desenvolvimento foi realizado utilizando NodeJS.
 
